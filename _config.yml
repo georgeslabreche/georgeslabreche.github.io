@@ -125,6 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/georgeslabreche"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: https://www.strava.com/athletes/64956151
 
 # Site Footer
 footer:
@@ -144,7 +147,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-github"
       #url: "https://github.com/georgeslabreche"
-
+    - label: "Strava"
+      icon: "fab fa-strava"
+      #url: https://www.strava.com/athletes/64956151
 
 # Reading Files
 include:
