@@ -20,7 +20,7 @@ title                    : "Georges Labrèche"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Georges Labrèche"
-description              : "Georges Labrèche"
+description              : "Developing and operationalizes AI technology demonstrators on-board the European Space Agency's OPS-SAT Space Lab. Leveraging edge computing for in-orbit machine learning and autonomous decision-making."
 url                      : # the base hostname & protocol for your site e.g. "https://georgeslabreche.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
