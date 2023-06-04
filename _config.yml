@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Georges Labrèche"
 description              : "Develops and operationalizes AI technology demonstrators on-board the European Space Agency's OPS-SAT Space Lab. Edge computing for in-orbit machine learning and autonomous decision-making."
-url                      : # the base hostname & protocol for your site e.g. "https://georgeslabreche.github.io"
+url                      : https://georges.fyi # the base hostname & protocol for your site e.g. "https://georgeslabreche.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "georges.fyi" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Georges Labrèche"
+  name             : "Georges Labrèche"
   avatar           : "/assets/images/bio-georges-labreche.jpg"
-  bio              : "I like running long distances and applying machine learning in space.<br><br>🏃🏽 Long Distance Runner<br>🛰️ Spacecraft Operator<br>💻 Software Engineer<br>🔬 Researcher <br>🔎 Curious"
+  bio              : "Like running long distances and applying machine learning in space.<br><br>🏃🏽 Long Distance Runner<br>👷🏽 Engineering Manager<br>🛰️ Spacecraft Operator<br>💻 Software Engineer<br>🔬 Researcher <br>🔎 Curious"
   location         :
   email            :
   links:
