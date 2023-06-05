@@ -4,7 +4,7 @@ A personal website forked from [Minimal Mistakes Jekyll theme](https://mmistakes
 
 ## About Georges
 
-Engineering artificial intelligence and machine learning systems on-board a flying spacecraft. A pretty cool people manager as well.
+Engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
 
 ## Awards
 Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement. Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications. Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat1.esoc.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making.
