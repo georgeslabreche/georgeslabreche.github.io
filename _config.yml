@@ -80,6 +80,7 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
+social_sharing           : false
 twitter:
   username               :
 facebook:
@@ -286,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
