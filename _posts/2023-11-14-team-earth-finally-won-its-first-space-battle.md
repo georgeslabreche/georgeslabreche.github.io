@@ -14,7 +14,6 @@ Team Earth finally won its first space battle!
   <figcaption>Earth won by checkmate.</figcaption>
 </figure>
 
-Kudos Earthling and [The CHESS-OPS Team](https://chess-ops.space/).
-
+Kudos Earthlings and [The CHESS-OPS Team](https://chess-ops.space/).
 
 *A version of this post was [first published on LinkedIn](https://www.linkedin.com/posts/georgeslabreche_esa-opssat-chess-activity-7130332215120416768-qARh/).*
