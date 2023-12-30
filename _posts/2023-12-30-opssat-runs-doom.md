@@ -21,7 +21,7 @@ tags:
       <td><a href="/assets/images/posts/2023-12-30/marcin-from-esa-announces-doom-in-space.png"><img src="/assets/images/posts/2023-12-30/marcin-from-esa-announces-doom-in-space.png" alt="The OPS-SAT-1 Satellite Runs DOOM!" /></a></td>
     </tr>
     <tr style="text-align:left;">
-      <td><figcaption><strong>ESA OPS-SAT-1 mission control team <a href="https://www.linkedin.com/in/yasiu/">Marcin J.</a> announced the first run of DOOM in space.</strong></figcaption></td>
+      <td><figcaption><strong>A member of the ESA OPS-SAT-1 mission control team, <a href="https://www.linkedin.com/in/yasiu/">Marcin J.</a>, proudly declared the inaugural execution of DOOM in space. The incorrect spelling of 'Gentlemen' in his message is humorously attributed to his eagerness and excitement as he hurriedly informed the rest of the team :).</strong></figcaption></td>
     </tr>
   </table>
 </div>
