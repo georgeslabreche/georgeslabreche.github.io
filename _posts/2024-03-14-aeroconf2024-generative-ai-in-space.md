@@ -44,3 +44,9 @@ I also presented our findings at [IEEE AeroConf 2024](https://www.aeroconf.org/)
 Check out the project's [GitHub repo](https://github.com/georgeslabreche/opssat-onboard-image-denoiser) and read the pre-print on [ResearchGate](https://www.researchgate.net/publication/378966767_Generative_AI_in_Space_Adversarial_Networks_to_Denoise_Images_Onboard_the_OPS-SAT-1_Spacecraft).
 
 A huge thanks to the OPS-SAT-1 Mission Control Team as well as to my co-experimenters / co-authors Cesar Guzman and Sam Bammens!
+
+<hr/>
+
+**Update 2024-06-13:** Our paper has been published! Check it out:
+
+> G. Labrèche, C. Guzman and S. Bammens, "Generative AI... in Space! Adversarial Networks to Denoise Images Onboard the OPS-SAT-1 Spacecraft," _2024 IEEE Aerospace Conference_, Big Sky, MT, USA, 2024, pp. 1-17, doi: [10.1109/AERO58975.2024.10521090](https://doi.org/10.1109/AERO58975.2024.10521090).
