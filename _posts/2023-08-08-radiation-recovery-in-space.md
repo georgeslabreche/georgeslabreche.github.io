@@ -22,3 +22,9 @@ The on-board non-volatile memory (eMMC) corruptions as well as the recovery tech
 This was a tremendous effort that involved a lot of talent from the European Space Agency, academia, and industry (check out the affiliations on the poster). For anyone at SmallSat, be sure to reach out to Vladimir Zelenevskiy to chat all about this amazing achievement! 
 
 *A version of this post was [first published on LinkedIn](https://www.linkedin.com/posts/georgeslabreche_smallsatellites-utah-paper-activity-7094662989483499520-mEGe/).*
+
+<hr/>
+
+**Update 2024-06-17:** We wrote and published an IEEE paper on this! Check it out:
+
+> M. Henkel et al., "Mitigating and Recovering from Radiation Induced Faults in Non-Hardened Spacecraft Flash Memory," _2024 IEEE Aerospace Conference_, Big Sky, MT, USA, 2024, pp. 1-8, doi: [10.1109/AERO58975.2024.10521125](https://doi.org/10.1109/AERO58975.2024.10521125).
