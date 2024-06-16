@@ -1,6 +1,7 @@
 ---
 title: "CCSDS Spring Meeting 2024"
-excerpt: "We've got standards, here!"
+excerpt: "We've got standards here!"
+text_shadow: rgba(37, 42, 52, 0.9)
 header:
   overlay_image: /assets/images/posts/2024-06-13/ccsds-spring-meeting-2024.jpg
 categories:

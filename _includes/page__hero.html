@@ -18,6 +18,16 @@
 
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
+<style>
+  .page__text_shadow {
+  text-shadow:
+    -1px -1px 0 {{page.text_shadow }},
+    1px -1px 0 {{page.text_shadow }},
+    -1px 1px 0 {{page.text_shadow }},
+    1px 1px 0 {{page.text_shadow }};
+}
+</style>
+
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
   style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
 >
@@ -27,13 +37,21 @@
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
-          {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {% if page.text_shadow %}
+            <span class="page__text_shadow">{{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+          {% else %}
+            {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {% endif %}
         {% endif %}
       </h1>
       {% if page.tagline %}
         <p class="page__lead">{{ page.tagline | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% elsif page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% if page.text_shadow %}
+          <p class="page__lead"><span class="page__text_shadow">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</span></p>
+        {% else %}
+          <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+        {% endif %}
       {% endif %}
       {% include page__meta.html %}
       {% if page.header.cta_url %}
