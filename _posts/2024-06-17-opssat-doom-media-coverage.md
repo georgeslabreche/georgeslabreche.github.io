@@ -17,7 +17,7 @@ During last year's Christmas break, [we ran DOOM in space onboard the OPS-SAT sa
 {% include video id="zthssUIFG6c" provider="youtube" %}
 
 
-We ran DOOM a few more times before [the mission came to an end](https://www.esa.int/Enabling_Support/Operations/Mission_complete_for_ESA_s_OPS-SAT_flying_laboratory) by atmospheric re-entry on the night of 22—23 May, 2024 (CEST). During that time, we received some fun media attention from Norway, Sweden, USA, Hungary, Poland, Italy, and France:
+We ran DOOM a few more times before [the mission came to an end](https://www.esa.int/Enabling_Support/Operations/Mission_complete_for_ESA_s_OPS-SAT_flying_laboratory) by atmospheric re-entry on the night of 22—23 May, 2024 (CEST). During that time, we received some fun media attention from Norway, Sweden, USA, Ukraine, Hungary, Poland, Italy, and France:
 
 <hr/>
 
@@ -26,6 +26,8 @@ We ran DOOM a few more times before [the mission came to an end](https://www.esa
 🇸🇪 NyTeknik. "[Frågan till programmeraren: 'Jag har en satellit. Vill du spela Doom på den?'](https://www.nyteknik.se/tech/fragan-till-programmeraren-jag-har-en-satellit-vill-du-spela-doom-pa-den/4253629) [The question to the programmer: 'I have a satellite. Do you want to play Doom on it?']." *NyTeknik*, 21 Apr. 2024.
 
 🇺🇸 Lane, Rick. "[Doom played in space by satellite computer 'ten times more powerful than any current ESA spacecraft'](https://www.pcgamer.com/games/fps/doom-played-in-space-by-satellite-computer-ten-times-more-powerful-than-any-current-esa-spacecraft/)." *PC Gamer*, 22 Apr. 2024.
+
+🇺🇦 Гусар, Максим. "[DOOM запустили на супутнику ЄКА OPS-SAT](https://blessed-esports.com/doom-zapustyly-na-suputnyku-ieka-ops-sat/) [DOOM was launched on ESA's OPS-SAT satellite]." *Blessed Esport*, 22 Apr. 2024.
 
 🇭🇺 Esport1. "[Nem fogod elhinni, hol és min futtatta a Doomot az Európai Űrügynökség](https://esport1.hu/news/2024/04/23/gaming-doom-nem-fogod-elhinni-hol-es-min-futtatta-az-europai-urugynokseg-tbr) [You won't believe where and what the European Space Agency ran Doom on]." *Esport1*, 23 Apr. 2024.
 
