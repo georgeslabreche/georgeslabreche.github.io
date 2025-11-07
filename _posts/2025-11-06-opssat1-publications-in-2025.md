@@ -10,7 +10,7 @@ tags:
   - operations
 ---
 
-Despite the OPS-SAT-1 mission coming to an end in May 2024, we still had some publications this year. Two were peer-reviewed for AeroConf 2025 in Big Sky, Montana, and the third was presented at SpaceOps 2025 in Montreal, Canada. These publications form a nice series detailing how the mission operationally unfolded to how we handled its final orbits and reentry.
+Despite the OPS-SAT-1 mission coming to an end in May 2024, we still had some publications this year. Two were peer-reviewed for AeroConf 2025 in Big Sky, Montana, and the third was presented at SpaceOps 2025 in Montreal, Canada. These publications form a nice series from how the mission operationally unfolded to how we handled its final orbits and reentry.
 
 ### Innovating ground software systems – a retrospective of OPS-SAT-1 mission
 
