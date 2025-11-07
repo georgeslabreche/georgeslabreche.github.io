@@ -1,5 +1,5 @@
 ---
-title: "Publications in 2025"
+title: "OPS-SAT-1 Publications in 2025"
 excerpt: "A look at this year's publications: from day-to-day operations to final reentry."
 categories:
   - opssat
