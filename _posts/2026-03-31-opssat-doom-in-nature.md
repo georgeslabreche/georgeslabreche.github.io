@@ -13,7 +13,7 @@ tags:
   - doom
 ---
 
-The OPS-SAT-1 DOOM experiment is featured in Nature! The article explores how DOOM has become a surprising tool for science: from improving AI models and studying the effects of video games on memory, to neurons in a dish learning to play the game, *E. coli* bacteria displaying its frames, and, of course, running it on a satellite in orbit.
+The OPS-SAT-1 DOOM experiment is featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4)! The article explores how DOOM has become a surprising tool for science: from improving AI models and studying the effects of video games on memory, to neurons in a dish learning to play the game, *E. coli* bacteria displaying its frames, and, of course, running it on a satellite in orbit.
 
 The piece highlights how DOOM's open-source code and small footprint have made it a go-to platform for creative research across disciplines. Other games like *Minecraft* and *World of Warcraft* have also been used in science, but DOOM holds a special place thanks to the "Can it run DOOM?" subculture that keeps pushing researchers and developers to find new and unexpected ways to run the game.
 
