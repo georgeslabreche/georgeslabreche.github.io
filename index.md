@@ -4,7 +4,7 @@ author_profile: true
 layout: single
 ---
 
-Engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
+As featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4): engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
 
 <center>
   <img src="/assets/images/about-georges-labreche.png" alt="" class="centerImage">
