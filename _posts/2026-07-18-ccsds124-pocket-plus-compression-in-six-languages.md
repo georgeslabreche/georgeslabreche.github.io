@@ -2,6 +2,7 @@
 title: "CCSDS 124.0-B-1: POCKET+ Compression in Six Languages"
 excerpt: "Flight-proven on OPS-SAT-1, standardized by CCSDS, and now open-sourced in C, C++, Python, Go, Rust, and Java."
 header:
+  og_image: /assets/images/posts/2026-07-18/ccsds124-og.png
   overlay_image: /assets/images/posts/2020-08-30/Space_laboratory_sees_snowy_Svalbard.png
   caption: "[One of the first photos captured by OPS-SAT-1: snowy Svalbard](https://www.esa.int/ESA_Multimedia/Images/2020/08/Space_laboratory_sees_snowy_Svalbard)"
 categories:
