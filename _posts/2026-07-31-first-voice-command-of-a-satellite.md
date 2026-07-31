@@ -20,10 +20,11 @@ Onboard ESA's OPS-SAT PRETTY satellite, a software-defined radio captures the 12
 
 This is not a pre-scripted trigger. It is a spoken command sent over amateur radio, detected and acted on autonomously in orbit.
 
-The ground segment is the amateur radio community. The Oslo Group of the Norwegian Radio Relay League ([LA4O](https://www.qrz.com/db/LA4O)) ran the July campaign: three of six captures triggered DOOM on the morning pass, then a live human voice reproduced it on the evening pass. They followed link tests from Legnica, Poland. Every one of them is named in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment does not happen without them.
+The ground segment is the amateur radio community. The Oslo Group of the Norwegian Radio Relay League ([LA4O](https://www.qrz.com/db/LA4O)) ran the [July campaign](https://radio.lb6aj.net/doom/): three of six captures triggered DOOM on the morning pass, then a live human voice reproduced it on the evening pass. They followed link tests from Legnica, Poland. Every one of them is named in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment does not happen without them.
 
 ### Links
 
 - [Project Page.](https://tanagraspace.com/opssat-pretty-doomed/)
 - [GitHub Repository.](https://github.com/georgeslabreche/opssat-pretty-doomed)
 - [Acknowledgements.](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements)
+- [Oslo Campaign Report.](https://radio.lb6aj.net/doom/)
