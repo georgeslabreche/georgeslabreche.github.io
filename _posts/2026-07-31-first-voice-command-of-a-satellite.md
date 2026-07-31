@@ -14,7 +14,7 @@ tags:
   - radio
 ---
 
-Hej folks! On 27 July 2026, a radio amateur in Oslo spoke into a microphone and a satellite in orbit heard its instructions to play DOOM! It is the [first time a satellite has been commanded by voice](https://tanagraspace.com/opssat-pretty-doomed/).
+Hej folks! On 27 July 2026, a radio amateur in Oslo pointed their antenna to space, spoke into a microphone, and a satellite in orbit heard its instructions to play DOOM! It is the [first time a satellite has been commanded by voice](https://tanagraspace.com/opssat-pretty-doomed/).
 
 Onboard ESA's OPS-SAT PRETTY satellite, a software-defined radio captures the 1296 MHz uplink, narrows and demodulates it, transcribes the speech with an onboard speech-to-text model, matches the command despite transcription errors, and launches DOOM. A postcard with the gameplay frame, the transcription, and signal diagnostics is then downlinked. The transcription in the header is what the satellite actually heard: imperfect, but enough to match on.
 
