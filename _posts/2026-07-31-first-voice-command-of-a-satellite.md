@@ -17,25 +17,25 @@ tags:
 
 Hej folks! These past few months I've been working on a project to send a voice command to a spacecraft, and I'm happy to say that it finally worked! On 27 July 2026, a radio amateur in Oslo pointed their antenna to space, spoke into a microphone, and a satellite in orbit heard its instructions to play DOOM! It is the [first time a satellite has been commanded by voice](https://tanagraspace.com/opssat-pretty-doomed/).
 
-Onboard ESA's OPS-SAT PRETTY satellite, the processing pipeline I developed captures the 1296 MHz uplink with a software-defined radio, narrows and demodulates it, transcribes the speech with an onboard speech-to-text AI model, matches the command despite transcription errors, and launches DOOM. A postcard with the gameplay frame, the transcription, and signal diagnostics is then downlinked.
+I developed the processing pipeline that ran onboard ESA's OPS-SAT PRETTY satellite. It captured the 1296 MHz uplink with a software-defined radio, narrowed and demodulated it, transcribed the speech with an onboard speech-to-text AI model, detected the command despite transcription errors, and launched DOOM. It then downlinked a postcard with the gameplay frame, the transcription, and signal diagnostics.
 
 <figure>
   <audio controls preload="metadata" style="width: 100%;" src="/assets/images/posts/2026-07-31/command.mp3">Your browser does not support the audio element. <a href="/assets/images/posts/2026-07-31/command.mp3">Download the recording.</a></audio>
-  <figcaption>The command sent from Oslo: <em>"LA4O, PRETTY PRETTY, PLEASE PLAY DOOM DOOM DOOM."</em> This is the recording as captured onboard OPS-SAT PRETTY during the evening pass, dug out of the noise floor 500 km up.</figcaption>
+  <figcaption>The command sent from Oslo: <em>"LIMA ALFA FOUR OSCAR, PRETTY PRETTY, PLEASE PLAY DOOM DOOM DOOM."</em> OPS-SAT PRETTY captured this recording during the evening pass, dug out of the noise floor 500 km up.</figcaption>
 </figure>
 
 <figure>
   <a href="/assets/images/posts/2026-07-31/postcard.png"><img src="/assets/images/posts/2026-07-31/postcard.png" alt="A DOOM-themed postcard composed onboard the satellite: a gameplay frame with logos, the onboard transcription, and signal diagnostics."></a>
-  <figcaption>The postcard OPS-SAT PRETTY composed and downlinked, transcription included. That is what the satellite made of the command: imperfect, but enough to match on.</figcaption>
+  <figcaption>OPS-SAT PRETTY composed this postcard and downlinked it, transcription included. That is what the satellite made of the command: imperfect, but the repeated DOOM still got through.</figcaption>
 </figure>
 
-This is not a pre-scripted trigger. It is a spoken command sent over amateur radio, detected and acted on autonomously in orbit.
+This was not a pre-scripted trigger. It was a spoken command sent over amateur radio, detected and acted on autonomously in orbit.
 
-The Oslo Group of the Norwegian Radio Relay League ([LA4O](https://www.qrz.com/db/LA4O)) ran the [July campaign](https://radio.lb6aj.net/doom/): three of six captures triggered DOOM on the morning pass, then a live human voice reproduced it on the evening pass. They followed link tests from Legnica, Poland. Everyone involved is credited in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment does not happen without them.
+The Oslo Group of the Norwegian Radio Relay League ran the [July campaign](https://doom.lb6aj.net) under the club call sign [LA4O](https://www.qrz.com/db/LA4O): the satellite detected the command on the morning pass, then again that evening when an operator spoke it live into a microphone. The campaign followed earlier link tests from Legnica, Poland. Everyone involved is credited in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment would not have happened without them.
 
 ### Links
 
 - [Project Page.](https://tanagraspace.com/opssat-pretty-doomed/)
 - [GitHub Repository.](https://github.com/georgeslabreche/opssat-pretty-doomed)
 - [Acknowledgements.](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements)
-- [Oslo Campaign Report.](https://radio.lb6aj.net/doom/)
+- [Oslo Campaign Report.](https://doom.lb6aj.net)
