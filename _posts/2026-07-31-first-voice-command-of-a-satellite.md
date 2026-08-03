@@ -21,17 +21,17 @@ I developed the processing pipeline that ran onboard ESA's OPS-SAT PRETTY satell
 
 <figure>
   <audio controls preload="metadata" style="width: 100%;" src="/assets/images/posts/2026-07-31/command.mp3">Your browser does not support the audio element. <a href="/assets/images/posts/2026-07-31/command.mp3">Download the recording.</a></audio>
-  <figcaption>The command sent from Oslo: <em>"LIMA ALFA FOUR OSCAR, PRETTY PRETTY, PLEASE PLAY DOOM DOOM DOOM."</em> OPS-SAT PRETTY captured this recording during the evening pass, dug out of the noise floor 500 km up.</figcaption>
+  <figcaption>The operator spoke into the microphone: <em>"LIMA ALFA FOUR OSCAR, PRETTY PLAY DOOM DOOM DOOM, PRETTY PLAY DOOM DOOM DOOM."</em> The spacecraft captured this recording during the evening pass.</figcaption>
 </figure>
 
 <figure>
-  <a href="/assets/images/posts/2026-07-31/postcard.png"><img src="/assets/images/posts/2026-07-31/postcard.png" alt="A DOOM-themed postcard composed onboard the satellite: a gameplay frame with logos, the onboard transcription, and signal diagnostics."></a>
-  <figcaption>OPS-SAT PRETTY composed this postcard and downlinked it, transcription included. That is what the satellite made of the command: imperfect, but the repeated DOOM still got through.</figcaption>
+  <a href="/assets/images/posts/2026-07-31/postcard-evening.png"><img src="/assets/images/posts/2026-07-31/postcard-evening.png" alt="A DOOM-themed postcard composed onboard the satellite on the evening pass: a gameplay frame with logos, the onboard transcription, and signal diagnostics."></a>
+  <figcaption>OPS-SAT PRETTY composed this postcard and downlinked it, transcription included. That is what the satellite made of the live human voice: imperfect, but the repeated DOOM trigger word still got through.</figcaption>
 </figure>
 
 This was not a pre-scripted trigger. It was a spoken command sent over amateur radio, detected and acted on autonomously in orbit.
 
-The Oslo Group of the Norwegian Radio Relay League ran the [July campaign](https://doom.lb6aj.net) under the club call sign [LA4O](https://www.qrz.com/db/LA4O): the satellite detected the command on the morning pass, then again that evening when an operator spoke it live into a microphone. The campaign followed earlier link tests from Legnica, Poland. Everyone involved is credited in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment would not have happened without them.
+The Oslo Group of the Norwegian Radio Relay League ran the [July campaign](https://doom.lb6aj.net) under the club call sign [LA4O](https://www.qrz.com/db/LA4O): the satellite detected the command from a synthesized voice on the morning pass, then from an operator speaking live into a microphone that evening. The campaign followed earlier link tests from Legnica, Poland. Everyone involved is credited in the [acknowledgements](https://github.com/georgeslabreche/opssat-pretty-doomed#acknowledgements), and the experiment would not have happened without them.
 
 ### Links
 
