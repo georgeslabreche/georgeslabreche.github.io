@@ -127,27 +127,6 @@ figcaption,
   font-size: 0.9em;
 }
 
-/* --- Firsts timeline: scroll reveal (JS-enabled browsers only) --- */
-
-.js .firsts-timeline li {
-  opacity: 0;
-  transform: translateY(14px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
-}
-
-.js .firsts-timeline li.is-visible {
-  opacity: 1;
-  transform: none;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .js .firsts-timeline li {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
-}
-
 /* --- Post grid cards --- */
 
 .entries-grid {
@@ -336,9 +315,59 @@ figcaption,
   }
 }
 
+.home-sections {
+  padding-top: 2.5em;
+}
+
 .home-sections h2 {
   border-bottom: 1px solid $border-color;
   padding-bottom: 0.4em;
+}
+
+/* --- Publications list --- */
+
+.pub-list {
+  list-style: none;
+  margin: 1em 0 2em;
+  padding: 0;
+}
+
+.pub-list li {
+  margin-bottom: 1.4em;
+}
+
+.pub-list li a {
+  display: block;
+  font-family: $header-font-family;
+  font-weight: 700;
+  text-decoration: none;
+  margin-bottom: 0.15em;
+}
+
+.pub-authors {
+  display: block;
+  font-size: 0.85em;
+  line-height: 1.5;
+
+  strong {
+    color: $text-color;
+  }
+}
+
+.pub-venue {
+  display: block;
+  color: $muted-text-color;
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+.pub-doi {
+  display: block;
+  font-family: $monospace;
+  font-size: 0.7em;
+  letter-spacing: 0.04em;
+  color: $muted-text-color;
+  margin-top: 0.15em;
 }
 
 /* --- Footer follow links: amber like the rest of the accents --- */
