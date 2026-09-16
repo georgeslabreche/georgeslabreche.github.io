@@ -6,6 +6,8 @@ main:
      url: /
    - title: "Posts"
      url: /posts/
+   - title: "Publications"
+     url: /publications/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
