@@ -1,39 +1,96 @@
 ---
-title: "About Georges"
-author_profile: true
-layout: single
+title: "Georges Labrèche"
+layout: splash
+header:
+  overlay_image: /assets/images/home-hero-opssat.jpg
+  video_banner:
+    - /assets/videos/hero-drift.mp4
+    - /assets/videos/hero-panels.mp4
+    - /assets/videos/hero-glow.mp4
+    - /assets/videos/hero-rings.mp4
+    - /assets/videos/hero-laser.mp4
+    - /assets/videos/hero-beam.mp4
+  overlay_filter: 0.45
+  actions:
+    - label: "Read the posts"
+      url: /posts/
+excerpt: "Engineering artificial intelligence and machine learning systems on-board flying spacecraft — as featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4)."
 ---
 
-As featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4): engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
-
-<center>
-  <img src="/assets/images/about-georges-labreche.png" alt="" class="centerImage">
-</center>
-<br>
+<div class="home-sections" markdown="1">
 
 ## Firsts
-The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat1.esoc.esa.int/) and OPS-SAT PRETTY spacecraft:
 
-- **November 8, 2020:** First to run a neural network model onboard a satellite: a [TensorFlow CNN image classifier](https://github.com/georgeslabreche/opssat-smartcam).
-- **April 16, 2021:** First to train supervised machine learning models onboard a satellite: initially with [online learning for FDIR](https://github.com/georgeslabreche/opssat-orbitai), then generalized with [onboard ML as-a-Service](https://github.com/visionspacetec/opssat-saasy-ml).
-- **June 26, 2021 & February 16, 2022:** First to train unsupervised machine learning models onboard a satellite: [k-means for image clustering in 2021](https://github.com/alexmeredith8299/opssat-cloud-detection) and [image segmentation in 2022](https://github.com/georgeslabreche/opssat-smartcam).
-- **September 29, 2023:** First to run Generative AI onboard a satellite: [WGANs to denoise corrupt images](https://github.com/georgeslabreche/opssat-onboard-image-denoiser).
-- **July 27, 2026:** First to [command a satellite by voice](https://tanagraspace.com/opssat-pretty-doomed/): a spoken command over amateur radio, transcribed onboard to play DOOM.
+The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat.esa.int/missions/ops-sat-1) and [OPS-SAT PRETTY](https://opssat.esa.int/missions/pretty) spacecraft:
+
+<ul class="firsts-timeline">
+  <li>
+    <span class="firsts-timeline__date">November 8, 2020</span>
+    <span class="firsts-timeline__title">First neural network onboard a satellite</span>
+    <span class="firsts-timeline__detail"><a href="https://github.com/georgeslabreche/opssat-smartcam">A TensorFlow CNN image classifier</a>.</span>
+  </li>
+  <li>
+    <span class="firsts-timeline__date">April 16, 2021</span>
+    <span class="firsts-timeline__title">First supervised machine learning trained onboard a satellite</span>
+    <span class="firsts-timeline__detail">Initially with <a href="https://github.com/georgeslabreche/opssat-orbitai">online learning for FDIR</a>, then generalized with <a href="https://github.com/visionspacetec/opssat-saasy-ml">onboard ML as-a-Service</a>.</span>
+  </li>
+  <li>
+    <span class="firsts-timeline__date">June 26, 2021 &amp; February 16, 2022</span>
+    <span class="firsts-timeline__title">First unsupervised machine learning trained onboard a satellite</span>
+    <span class="firsts-timeline__detail"><a href="https://github.com/alexmeredith8299/opssat-cloud-detection">K-means for image clustering in 2021</a> and <a href="https://github.com/georgeslabreche/opssat-smartcam">image segmentation in 2022</a>.</span>
+  </li>
+  <li>
+    <span class="firsts-timeline__date">September 29, 2023</span>
+    <span class="firsts-timeline__title">First Generative AI onboard a satellite</span>
+    <span class="firsts-timeline__detail"><a href="https://github.com/georgeslabreche/opssat-onboard-image-denoiser">WGANs to denoise corrupt images</a>.</span>
+  </li>
+  <li>
+    <span class="firsts-timeline__date">July 27, 2026</span>
+    <span class="firsts-timeline__title">First voice command of a satellite</span>
+    <span class="firsts-timeline__detail"><a href="https://tanagraspace.com/opssat-pretty-doomed/">A spoken command over amateur radio, transcribed onboard to play DOOM</a>.</span>
+  </li>
+</ul>
 
 ## Awards / Nominations
-Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat1.esoc.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
+
+Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
+
 - Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement.
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications.
-- Co-Chair at the [SmallSat Conference](https://smallsat.org/) session in Advanced Technologies. 
+- Co-Chair at the [SmallSat Conference](https://smallsat.org/) session in Advanced Technologies.
 
 ## Leadership
-An experienced and empathetic people manager, notably as an Engineering Manager for digital product engineering. Georges thrives in environments with shifting priorities from ideation to delivery with diverse stakeholders across multiple teams in different time zones. He enjoys coaching, mentoring, growth, and retaining talent, as well as developing high impact collaborative relationships with product managers.
+
+Georges leads engineering teams and genuinely enjoys it, most recently as an Engineering Manager in digital product engineering. He does his best work in the messy middle, where priorities shift and stakeholders span teams and time zones, and carries ideas all the way through to delivery. What he cares about most is people: coaching and mentoring engineers, helping them grow and stick around, and building high-trust partnerships with product managers.
 
 ## Entrepreneur
-[Tanagra Space](https://tanagraspace.com/), Georges' Estonian-based AI consultancy, supports the European Space Agency's OPS-SAT mission control team at the European Space Operations Center (ESOC) in Darmstadt, Germany. He also founded [Open Data Kosovo](https://opendatakosovo.org/), a leading civic-tech non-profit with a global footprint.
+
+[Tanagra Space](https://tanagraspace.com/), Georges' Estonian-based AI consultancy, supports the European Space Agency's OPS-SAT mission control team at the European Space Operations Center in Darmstadt, Germany. He also founded [Open Data Kosovo](https://opendatakosovo.org/), a leading civic-tech non-profit with a global footprint.
 
 ## Education
-- B.S. in Software Engineering from the University of Ottawa, Canada.
-- M.A. in International Affairs from the New School University in New York, NY.
-- M.S. in Spacecraft Design from Luleå University of Technology in Kiruna, Sweden.
 
+- M.S. in Spacecraft Design from Luleå University of Technology in Kiruna, Sweden.
+- M.A. in International Affairs from the New School University in New York, NY.
+- B.S. in Software Engineering from the University of Ottawa, Canada.
+
+
+</div>
+
+<script>
+  (function () {
+    var items = document.querySelectorAll(".firsts-timeline li");
+    if (!("IntersectionObserver" in window)) {
+      items.forEach(function (el) { el.classList.add("is-visible"); });
+      return;
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.2 });
+    items.forEach(function (el) { io.observe(el); });
+  })();
+</script>

@@ -1,0 +1,32 @@
+/* ==========================================================================
+   Orbit skin: near-black space background, warm off-white text,
+   signal-amber accent. Custom skin for georges.fyi.
+   ========================================================================== */
+
+/* Colors */
+$background-color: #0b0e14 !default;
+$text-color: #e8e6e1 !default;
+$muted-text-color: mix($background-color, $text-color, 35%) !default;
+$primary-color: #ffb454 !default;
+$border-color: mix(#fff, $background-color, 12%) !default;
+$code-background-color: #11151d !default;
+$code-background-color-dark: #0d1017 !default;
+$form-background-color: #11151d !default;
+$footer-background-color: #07090d !default;
+$link-color: $primary-color !default;
+$link-color-hover: mix(#fff, $link-color, 30%) !default;
+$link-color-visited: mix(#000, $link-color, 15%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $primary-color !default;
+$navicon-link-color-hover: mix(#fff, $background-color, 10%) !default;
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}

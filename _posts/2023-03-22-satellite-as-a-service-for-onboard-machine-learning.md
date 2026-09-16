@@ -8,6 +8,8 @@ tags:
   - research
   - publication
   - artificial intelligence
+header:
+  teaser: /assets/images/teasers/saasyml-logo.png
 ---
 
 I got to present one of our neat projects at this year's [IEEE AeroConf](https://www.aeroconf.org/), developed by my consultancy [Tanagra Space](https://tanagraspace.com/) in collaboration with [VisionSpace](https://www.visionspace.com/) and [ESA-ESOC](https://www.esa.int/About_Us/ESOC):

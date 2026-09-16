@@ -5,6 +5,8 @@ categories:
   - opssat
 tags:
   - opssat
+header:
+  teaser: /assets/images/teasers/space-chess-board.jpg
 ---
 
 ♟️Play chess against a flying satellite, it's [CHESS-OPS](https://chess-ops.space/ ) onboard the European Space Agency's OPS-SAT-1 spacecraft!

@@ -5,6 +5,8 @@ categories:
   - opssat
 tags:
   - opssat
+header:
+  teaser: /assets/images/teasers/team-earth-checkmate.jpg
 ---
 
 Team Earth finally won its first space battle!

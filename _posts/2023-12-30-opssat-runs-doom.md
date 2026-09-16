@@ -7,6 +7,8 @@ tags:
   - opssat
   - research
   - doom
+header:
+  teaser: /assets/images/teasers/opssat-f45.jpg
 ---
 
 🎮 Just in time for DOOM's 30th anniversary, a big thank you to [Ólafur Waage](https://www.linkedin.com/in/olafurw/) for leading this unique experiment.

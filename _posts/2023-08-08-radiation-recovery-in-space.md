@@ -6,6 +6,8 @@ categories:
 tags:
   - opssat
   - radiation
+header:
+  teaser: /assets/images/teasers/opssat-f20.jpg
 ---
 
 ☢️Radiation Recovery... in Space! 🛰The OPS-SAT-1 mission control team pulled off a super creative recovery from radiation and wear induced memory faults on-board the spacecraft's edge computer payload. Read all about it the poster we presented at Small Satellite Conference (SmallSat):

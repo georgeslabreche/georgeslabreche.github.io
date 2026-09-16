@@ -6,6 +6,8 @@ categories:
 tags:
   - research
   - publication
+header:
+  teaser: /assets/images/posts/2023-08-25/Tom_Mladenov_Holding_Printed_SESA_Publication_OPS-SAT_Open-Source.jpg
 ---
 
 From the very first use of [deep neural networks onboard a satellite with TensorFlow Lite](https://ieeexplore.ieee.org/document/9843402) to some pretty awesome onboard [software defined radio signal processing with GNU Radio and TensorFlow object detection](https://georges.fyi/opssat/machine-learning-for-digital-signal-processing-with-software-defined-radio/), read all about how OPS-SAT-1 has leveraged open source software in space operations:

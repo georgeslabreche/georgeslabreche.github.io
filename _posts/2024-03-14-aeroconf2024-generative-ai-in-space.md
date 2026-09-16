@@ -7,6 +7,8 @@ tags:
   - opssat
   - research
   - artificial intelligence
+header:
+  teaser: /assets/images/posts/2024-03-14/img_msec_1697455926224_2_thumbnail.denoised.jpeg
 ---
 
 A few months ago I posted about [the first use of Generative AI in space](https://georges.fyi/opssat/first-use-of-generative-ai-in-space/) to denoise grainy images onboard the OPS-SAT-1 spacecraft and how I applied it to [uplink The Pale Blue Dot back into space for some poetic denoising](https://georges.fyi/opssat/the-denoised-blue-dot/).

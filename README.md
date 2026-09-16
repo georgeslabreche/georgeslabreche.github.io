@@ -5,7 +5,7 @@ A personal website forked from [Minimal Mistakes Jekyll theme](https://mmistakes
 Engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
 
 ## Firsts
-The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat1.esoc.esa.int/) and OPS-SAT PRETTY spacecraft:
+The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat.esa.int/missions/ops-sat-1) and [OPS-SAT PRETTY](https://opssat.esa.int/missions/pretty) spacecraft:
 
 - **November 8, 2020:** First to run a neural network model onboard a satellite: a [TensorFlow CNN image classifier](https://github.com/georgeslabreche/opssat-smartcam).
 - **April 16, 2021:** First to train supervised machine learning models onboard a satellite: initially with [online learning for FDIR](https://github.com/georgeslabreche/opssat-orbitai), then generalized with [onboard ML as-a-Service](https://github.com/visionspacetec/opssat-saasy-ml).
@@ -14,17 +14,17 @@ The world of AI in space is *obsessed* with being the first at achieving anythin
 - **July 27, 2026:** First to [command a satellite by voice](https://tanagraspace.com/opssat-pretty-doomed/): a spoken command over amateur radio, transcribed onboard to play DOOM.
 
 ## Awards / Nominations
-Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat1.esoc.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
+Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
 - Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement.
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications. 
 
 ## Leadership
-An experienced and empathetic people manager, notably as an Engineering Manager for digital product engineering. Georges thrives in environments with shifting priorities from ideation to delivery with diverse stakeholders across multiple teams in different time zones. He enjoys coaching, mentoring, growth, and retaining talent, as well as developing high impact collaborative relationships with product managers.
+Georges leads engineering teams and genuinely enjoys it, most recently as an Engineering Manager in digital product engineering. He does his best work in the messy middle, where priorities shift and stakeholders span teams and time zones, and carries ideas all the way through to delivery. What he cares about most is people: coaching and mentoring engineers, helping them grow and stick around, and building high-trust partnerships with product managers.
 
 ## Entrepreneur
 [Tanagra Space](https://tanagraspace.com/), Georges' Estonian-based AI consultancy, supports the European Space Agency's OPS-SAT mission control team at the European Space Operations Center (ESOC) in Darmstadt, Germany. He also founded [Open Data Kosovo](https://opendatakosovo.org/), a leading civic-tech non-profit with a global footprint.
 
 ## Education
-- B.S. in Software Engineering from the University of Ottawa, Canada.
-- M.A. in International Affairs from the New School University in New York, NY.
 - M.S. in Spacecraft Design from Luleå University of Technology in Kiruna, Sweden.
+- M.A. in International Affairs from the New School University in New York, NY.
+- B.S. in Software Engineering from the University of Ottawa, Canada.

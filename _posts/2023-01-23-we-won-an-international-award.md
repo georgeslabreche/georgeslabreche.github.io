@@ -6,6 +6,8 @@ categories:
 tags:
   - opssat
   - award
+header:
+  teaser: /assets/images/teasers/opssat-f50.jpg
 ---
 
 What a team! Congrats to everyone involved with this fantastic spacecraft and a big thank you to all the experimenters who made OPS-SAT a very special mission indeed. Here's to more successes for our little space lab that packs a punch!
