@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "orbit" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,7 +24,7 @@ description              : "Develops and operationalizes AI technology demonstra
 url                      : https://georges.fyi # the base hostname & protocol for your site e.g. "https://georgeslabreche.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/home-hero-opssat.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "georges.fyi" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Georges Labrèche"
   avatar           : "/assets/images/bio-georges-labreche.jpg"
-  bio              : "Likes running long distances and applying machine learning in space.<br><br>🏃🏽 Long Distance Runner<br>👷🏽 Engineering Manager<br>🛰️ Spacecraft Operator<br>💻 Software Engineer<br>🔬 Researcher <br>🔎 Curious"
+  bio              : "Machine learning in orbit. 🛰️<br>Long distances on Earth. 🏃🏽"
   location         :
   email            :
   links:
@@ -135,22 +135,22 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      #url: "https://www.linkedin.com/in/georgeslabreche/"
+      url: "https://www.linkedin.com/in/georgeslabreche/"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      #url: "https://scholar.google.com/citations?user=E89wAGsAAAAJ"
+      url: "https://scholar.google.com/citations?user=E89wAGsAAAAJ"
     - label: "ORCID"
       icon: "fab fa-orcid"
-      #url: "https://orcid.org/0000-0002-2104-8789"
+      url: "https://orcid.org/0000-0002-2104-8789"
     - label: "ResearchGate"
       icon: "fab fa-researchgate"
-      #url: "https://www.researchgate.net/profile/Georges-Labreche/research"
+      url: "https://www.researchgate.net/profile/Georges-Labreche/research"
     - label: "GitHub"
       icon: "fab fa-github"
-      #url: "https://github.com/georgeslabreche"
+      url: "https://github.com/georgeslabreche"
     - label: "Strava"
       icon: "fab fa-strava"
-      #url: https://www.strava.com/athletes/64956151
+      url: https://www.strava.com/athletes/64956151
 
 # Reading Files
 include:

@@ -8,6 +8,8 @@ tags:
   - research
   - publication
   - ccsds
+header:
+  teaser: /assets/images/teasers/opssat-f10.jpg
 ---
 
 The OPS-SAT mission has set aside the Packet Utilization Standard (PUS) in favor of a standard being defined by the Consultative Committee for Space Data Systems (CCSDS): the Mission Operations (MO) Services and the File Delivery Protocol (CFDP)'s file-based operations. The OPS-SAT-1 spacecraft is the first in-orbit demonstration of fully MO-based on-board software and ground implementations.

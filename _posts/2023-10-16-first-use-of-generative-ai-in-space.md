@@ -6,6 +6,8 @@ categories:
 tags:
   - research
   - artificial intelligence
+header:
+  teaser: /assets/images/posts/2023-10-16/First_Generative_AI_in_Space_1695963889066.denoised.jpeg
 ---
 
 🤖 Generative AI... IN SPACE! 🌌 As the OPS-SAT-1 spacecraft's onboard camera 📷 surpasses its expected lifetime 👵🏼 it faces increased risk of picture degradation. So we came up with an innovative neural network solution!

@@ -8,6 +8,8 @@ tags:
   - research
   - publication
   - artificial intelligence
+header:
+  teaser: /assets/images/teasers/opssat-f70.jpg
 ---
 
 My awesome research partners Tom Mladenov and Tom Syndercombe are at the 73rd International Astronautical Congress (IAC) in Paris. Our champion Mr Mladenov will be presenting!

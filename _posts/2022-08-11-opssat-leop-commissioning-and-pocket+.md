@@ -2,6 +2,7 @@
 title: "OPS-SAT LEOP, Commissioning, and Pocket+"
 excerpt: "Rocking the Short Shorts on Stage at SmallSat 2022."
 header:
+  teaser: /assets/images/teasers/leop-smallsat-stage.jpg
   image: /assets/images/posts/2022-08-11/Georges_Labreche_Presenting_OPS-SAT_CCSDS_Data_Compression_Standard_124.0-B-1_POCKET+_at_SmallSat_2022.jpg
   caption: "Who wears short shorts?"
 categories:

@@ -6,6 +6,8 @@ categories:
 tags:
   - opssat
   - award
+header:
+  teaser: /assets/images/teasers/spaceops-certificate.jpg
 ---
 
 I was super excited to get some picture updates from Vladimir Zelenevskiy after he went on stage with fellow OPS-SAT Mission Control Team members to receive the 2023 [International SpaceOps Award for Outstanding Achievement](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award)! I couldn't make it in person but the team was so kind to mail me a little something:

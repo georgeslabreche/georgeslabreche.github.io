@@ -1,3 +1,4 @@
+{% assign locale = include.locale | default: site.locale %}
 {% capture overlay_img_path %}{{ page.header.overlay_image | relative_url }}{% endcapture %}
 
 {% if page.header.overlay_filter contains "gradient" %}
@@ -31,11 +32,71 @@
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
   style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}{{ overlay_filter }}, {% endif %}url('{{ overlay_img_path }}');{% endif %}"
 >
+  {% if page.header.video_banner %}
+    <video class="page__hero-banner-video" autoplay muted loop playsinline aria-hidden="true" poster="{{ overlay_img_path }}"></video>
+    <div class="page__hero-banner-scrim" aria-hidden="true"></div>
+    <script>
+      (function () {
+        var sources = {{ page.header.video_banner | jsonify }};
+        if (!Array.isArray(sources)) { sources = [sources]; }
+        var a = document.querySelector(".page__hero-banner-video");
+        if (!a) { return; }
+        var b = a.cloneNode(false);
+        b.removeAttribute("poster");
+        b.classList.add("is-faded");
+        a.parentNode.insertBefore(b, a.nextSibling);
+        [a, b].forEach(function (el) {
+          el.muted = true;
+          el.playsInline = true;
+          el.loop = true;
+        });
+        var active = a, standby = b, switching = false;
+        var order = sources.slice();
+        for (var i = order.length - 1; i > 0; i--) {
+          var j = Math.floor(Math.random() * (i + 1));
+          var tmp = order[i]; order[i] = order[j]; order[j] = tmp;
+        }
+        var idx = 0;
+        function pick() { var s = order[idx]; idx = (idx + 1) % order.length; return s; }
+        function play(el) { if (el.play) { var p = el.play(); if (p && p.catch) { p.catch(function () {}); } } }
+        function onTime() {
+          if (this !== active || switching || !this.duration) { return; }
+          if (this.duration - this.currentTime < 0.9) {
+            switching = true;
+            var next = standby, old = active;
+            var started = false;
+            var onPlaying = function () {
+              started = true;
+              next.classList.remove("is-faded");
+              old.classList.add("is-faded");
+              active = next;
+              standby = old;
+              setTimeout(function () { old.pause(); switching = false; }, 1000);
+            };
+            next.addEventListener("playing", onPlaying, { once: true });
+            next.muted = true;
+            next.src = pick();
+            play(next);
+            setTimeout(function () {
+              if (!started) {
+                next.removeEventListener("playing", onPlaying);
+                switching = false;
+              }
+            }, 4000);
+          }
+        }
+        a.addEventListener("timeupdate", onTime);
+        b.addEventListener("timeupdate", onTime);
+        active.src = pick();
+        play(active);
+      })();
+    </script>
+  {% endif %}
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         {% if paginator and site.paginate_show_page_num %}
-          {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
+          {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {% if page.text_shadow %}
             <span class="page__text_shadow">{{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -53,15 +114,13 @@
           <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
         {% endif %}
       {% endif %}
-      {% include page__meta.html %}
-      {% if page.header.cta_url %}
-        <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
-      {% endif %}
+      {% include page__meta.html locale=locale %}
       {% if page.header.actions %}
         <p>
         {% for action in page.header.actions %}
-          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
+        </p>
       {% endif %}
     </div>
   {% else %}

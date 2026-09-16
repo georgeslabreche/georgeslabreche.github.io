@@ -8,6 +8,8 @@ tags:
   - research
   - publication
   - artificial intelligence
+header:
+  teaser: /assets/images/posts/2021-04-19/first-machine-learning-models-trained-in-orbit.jpg
 ---
 
 Check out these machine learning models trained in-orbit onboard the OPS-SAT-1 spacecraft. This was achieved as part of our experiment called [OrbitAI](https://github.com/georgeslabreche/opssat-orbitai):
