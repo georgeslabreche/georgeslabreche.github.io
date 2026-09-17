@@ -15,7 +15,7 @@ tags:
 Did you know that you can spot buried archaeology from aerial imagery? You just need the right conditions for cropmarks to appear and the help of citizen scientists!
 
 <figure>
-  <a href="/assets/images/posts/2020-09-08/etruscan-city-of-veii.jpg"><img src="/assets/images/posts/2020-09-08/etruscan-city-of-veii.jpg"></a>
+  <a href="/assets/images/posts/2020-09-08/etruscan-city-of-veii.jpg"><img src="/assets/images/posts/2020-09-08/etruscan-city-of-veii.jpg" alt="Aerial imagery with cropmarks revealing the buried Etruscan city of Veii"></a>
   <figcaption>Example of archaeological cropmarks with three positive detections in the proximity of excavated structures of the ancient Etruscan city of Veii.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Check out the pilot study published in [Remote Sensing (Volume 12, Issue 17, Sep
 Huge thank you to co-authors Christopher Stewart and Daniel Lombraña González. Massive shout-out to the citizen scientists who participated. Big-up to the PhiLab at European Space Agency (ESA) / ESRIN for providing the enabling environment required to come up and follow through with super cool research projects.
 
 <figure>
-  <a href="/assets/images/posts/2020-09-08/roman-villa-near-via-nomentana.jpg"><img src="/assets/images/posts/2020-09-08/roman-villa-near-via-nomentana.jpg"></a>
+  <a href="/assets/images/posts/2020-09-08/roman-villa-near-via-nomentana.jpg"><img src="/assets/images/posts/2020-09-08/roman-villa-near-via-nomentana.jpg" alt="Aerial imagery with cropmarks of a buried Roman villa near Via Nomentana"></a>
   <figcaption>An example of an archaeological cropmark with two positive detections (see black arrow). This is in proximity to the Via Nomentana. It appears to be a cropmark of a Roman villa, but more data would be needed to verify the nature of the structure.</figcaption>
 </figure>
 

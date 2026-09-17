@@ -127,25 +127,29 @@ figcaption,
   font-size: 0.9em;
 }
 
-/* --- Post grid cards --- */
+/* --- Post grid cards: posts page and related posts --- */
 
-.entries-grid {
+.entries-grid,
+.page__related .grid__wrapper {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   gap: 1.25em;
 }
 
-.entries-grid .grid__item {
+.entries-grid .grid__item,
+.page__related .grid__item {
   float: none;
   width: auto;
   margin: 0;
 }
 
-.entries-grid .grid__item .archive__item-title {
+.entries-grid .grid__item .archive__item-title,
+.page__related .grid__item .archive__item-title {
   margin-top: 0.75em;
 }
 
-.entries-grid .archive__item {
+.entries-grid .archive__item,
+.page__related .archive__item {
   background: mix(#fff, $background-color, 3%);
   border: 1px solid $border-color;
   border-radius: 8px;
@@ -154,18 +158,22 @@ figcaption,
   transition: transform 0.2s ease, border-color 0.2s ease;
 }
 
-.entries-grid .archive__item:hover {
+.entries-grid .archive__item:hover,
+.page__related .archive__item:hover {
   transform: translateY(-3px);
   border-color: mix($primary-color, $border-color, 40%);
 }
 
-.entries-grid .archive__item-teaser {
+.entries-grid .archive__item-teaser,
+.page__related .archive__item-teaser {
   border-radius: 0;
   height: 140px;
   overflow: hidden;
+  margin-bottom: 0;
 }
 
-.entries-grid .archive__item-teaser img {
+.entries-grid .archive__item-teaser img,
+.page__related .archive__item-teaser img {
   border-radius: 0;
   width: 100%;
   height: 100%;
@@ -174,22 +182,33 @@ figcaption,
 
 .entries-grid .archive__item-title,
 .entries-grid .archive__item-excerpt,
-.entries-grid .page__meta {
+.entries-grid .page__meta,
+.page__related .archive__item-title,
+.page__related .archive__item-excerpt,
+.page__related .page__meta {
   padding: 0 0.9em;
 }
 
-.entries-grid .archive__item-title {
+.entries-grid .archive__item-title,
+.page__related .archive__item-title {
   margin-top: 0.75em;
   font-size: 0.95em;
 }
 
-.entries-grid .archive__item-title a {
-  text-decoration: none;
-}
-
-.entries-grid .archive__item-excerpt {
+.entries-grid .archive__item-excerpt,
+.page__related .archive__item-excerpt {
   display: block;
   padding-bottom: 1em;
+}
+
+/* --- Archive lists: no underlined titles anywhere --- */
+
+.archive__item-title a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 /* --- Author sidebar profile --- */

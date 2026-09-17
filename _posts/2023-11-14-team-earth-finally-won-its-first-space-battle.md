@@ -12,7 +12,7 @@ header:
 Team Earth finally won its first space battle!
 
 <figure>
-  <a href="/assets/images/posts/2023-11-14/earth-won-by-checkmate.jpg"><img src="/assets/images/posts/2023-11-14/earth-won-by-checkmate.jpg"></a>
+  <a href="/assets/images/posts/2023-11-14/earth-won-by-checkmate.jpg"><img src="/assets/images/posts/2023-11-14/earth-won-by-checkmate.jpg" alt="Space chess board showing the game Earth won by checkmate against OPS-SAT"></a>
   <figcaption>Earth won by checkmate.</figcaption>
 </figure>
 

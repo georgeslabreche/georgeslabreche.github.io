@@ -17,7 +17,7 @@ header:
 The on-board non-volatile memory (eMMC) corruptions as well as the recovery techniques used to restore operations and improve resilience can be generalized as a guideline to many small satellite missions that use non-radiation hard memory.
 
 <figure>
-  <a href="/assets/images/posts/2023-08-08/Vladimir_Zelenevskiy_Recovery_from_File_System_Corruption_on_the_OPS-SAT-1_Experimental_Processor.jpg"><img src="/assets/images/posts/2023-08-08/Vladimir_Zelenevskiy_Recovery_from_File_System_Corruption_on_the_OPS-SAT-1_Experimental_Processor.jpg"></a>
+  <a href="/assets/images/posts/2023-08-08/Vladimir_Zelenevskiy_Recovery_from_File_System_Corruption_on_the_OPS-SAT-1_Experimental_Processor.jpg"><img src="/assets/images/posts/2023-08-08/Vladimir_Zelenevskiy_Recovery_from_File_System_Corruption_on_the_OPS-SAT-1_Experimental_Processor.jpg" alt="Vladimir Zelenevskiy with the poster on recovering from file system corruption on the OPS-SAT-1 experimental processor"></a>
   <figcaption>Vladimir Zelenevskiy in front of our poster presentation at the 37th Annual Small Satellite Conference in Logan, Utah.</figcaption>
 </figure>
 
