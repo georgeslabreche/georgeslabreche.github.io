@@ -17,7 +17,7 @@ From the very first use of [deep neural networks onboard a satellite with Tensor
 There's loads to be excited about with the power of open source when it is unleashed on space-bound edge computers. As always, a huge thank you to the OPS-SAT Mission Control Team at the European Space Agency for the boundless opportunities to innovate in space!
 
 <figure>
-  <a href="/assets/images/posts/2023-08-25/Tom_Mladenov_Holding_Printed_SESA_Publication_OPS-SAT_Open-Source.jpg"><img src="/assets/images/posts/2023-08-25/Tom_Mladenov_Holding_Printed_SESA_Publication_OPS-SAT_Open-Source.jpg"></a>
+  <a href="/assets/images/posts/2023-08-25/Tom_Mladenov_Holding_Printed_SESA_Publication_OPS-SAT_Open-Source.jpg"><img src="/assets/images/posts/2023-08-25/Tom_Mladenov_Holding_Printed_SESA_Publication_OPS-SAT_Open-Source.jpg" alt="Tom Mladenov holding the printed SESA journal issue featuring the open-source software article"></a>
   <figcaption>Digital publications are nice and accessible but it's always neat to get a hold of a print.</figcaption>
 </figure>
 

@@ -21,7 +21,7 @@ We have some exciting successes in applying Machine Learning (ML) with Software 
 The work presents an innovative solution to RF signal detection for narrowband signal localization and Search and Rescue (SAR) distress signal monitoring using ML in a congested RF environments sensed by spaceborne payloads. The findings are a thrilling validation on how creative use of in-orbit edge computing and ML can spearhead autonomous spacecraft operations to new levels of sophistication with reduced payload operations complexity.
 
 <figure>
-  <a href="/assets/images/posts/2022-09-19/ESA_OPS-SAT-1.gif"><img src="/assets/images/posts/2022-09-19/ESA_OPS-SAT-1.gif"></a>
+  <video autoplay muted loop playsinline aria-label="Animation of the OPS-SAT-1 spacecraft in orbit" src="/assets/images/posts/2022-09-19/ESA_OPS-SAT-1.mp4"></video>
 </figure>
 
 This projects builds on our previous work lead by Tom M. in deploying the European Space Agency's first use of on-board RF signal processing using SDR and GNU Radio running on OPS-SAT-1's payload computer:

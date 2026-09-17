@@ -19,7 +19,7 @@ I got to present one of our neat projects at this year's [IEEE AeroConf](https:/
 The European Space Agency's OPS-SAT space lab is a versatile platform that enables software engineering using modern web 2.0 best practices. The SaaSyML app provides experimenters with a RESTful API for on-board Machine Learning applications. It's Space Platform as-a-Service (SPaaS)! It implements a publish-subscribe pattern that uses on-board data as training data and can run in-flight inferences with the trained models.
 
 <figure>
-  <a href="/assets/images/posts/2023-03-22/Georges_Labreche_Presenting_at_IEEE_AeroConf_SaaSyML_Satellite-as-a-Service_for_Onboard_Machine_Learning.jpg"><img src="/assets/images/posts/2023-03-22/Georges_Labreche_Presenting_at_IEEE_AeroConf_SaaSyML_Satellite-as-a-Service_for_Onboard_Machine_Learning.jpg"></a>
+  <a href="/assets/images/posts/2023-03-22/Georges_Labreche_Presenting_at_IEEE_AeroConf_SaaSyML_Satellite-as-a-Service_for_Onboard_Machine_Learning.jpg"><img src="/assets/images/posts/2023-03-22/Georges_Labreche_Presenting_at_IEEE_AeroConf_SaaSyML_Satellite-as-a-Service_for_Onboard_Machine_Learning.jpg" alt="Georges Labrèche presenting SaaSy ML at the IEEE Aerospace Conference"></a>
   <figcaption>A SaaSy presentation.</figcaption>
 </figure>
 

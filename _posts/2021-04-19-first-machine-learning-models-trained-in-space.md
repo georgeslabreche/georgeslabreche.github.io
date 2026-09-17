@@ -15,7 +15,7 @@ header:
 Check out these machine learning models trained in-orbit onboard the OPS-SAT-1 spacecraft. This was achieved as part of our experiment called [OrbitAI](https://github.com/georgeslabreche/opssat-orbitai):
 
 <figure>
-  <a href="/assets/images/posts/2021-04-19/first-machine-learning-models-trained-in-orbit.jpg"><img src="/assets/images/posts/2021-04-19/first-machine-learning-models-trained-in-orbit.jpg"></a>
+  <a href="/assets/images/posts/2021-04-19/first-machine-learning-models-trained-in-orbit.jpg"><img src="/assets/images/posts/2021-04-19/first-machine-learning-models-trained-in-orbit.jpg" alt="Log output from the first machine learning models trained onboard OPS-SAT-1"></a>
   <figcaption>April 16, 2021: OPS-SAT-1 is the first spacecraft to train machine learning models in space onboard its computer payload.</figcaption>
 </figure>
 

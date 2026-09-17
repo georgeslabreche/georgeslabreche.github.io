@@ -13,7 +13,7 @@ header:
 I was super excited to get some picture updates from Vladimir Zelenevskiy after he went on stage with fellow OPS-SAT Mission Control Team members to receive the 2023 [International SpaceOps Award for Outstanding Achievement](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award)! I couldn't make it in person but the team was so kind to mail me a little something:
 
 <figure>
-  <a href="/assets/images/posts/2023-04-04/OPS-SAT_Georges_Labreche_Receives_SpaceOps_Award_for_Outsanding_Achievement.jpg"><img src="/assets/images/posts/2023-04-04/OPS-SAT_Georges_Labreche_Receives_SpaceOps_Award_for_Outsanding_Achievement.jpg"></a>
+  <a href="/assets/images/posts/2023-04-04/OPS-SAT_Georges_Labreche_Receives_SpaceOps_Award_for_Outsanding_Achievement.jpg"><img src="/assets/images/posts/2023-04-04/OPS-SAT_Georges_Labreche_Receives_SpaceOps_Award_for_Outsanding_Achievement.jpg" alt="Georges Labrèche smiling with a thumbs up while holding the SpaceOps Award for Outstanding Achievement certificate"></a>
   <figcaption>Certified outstanding!</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ I've had the privilege to work with many of OPS-SAT Space Lab Team's past and pr
 > I am deeply honored and humbled to accept this award on behalf of the OPS-SAT Mission Control Team. Those on stage, those that could not make it and all those that made significant contributions over the last decade. And there are many. Many thanks to the Awards Committee for choosing us and ESA management for proposing us because we are not a classic mission or obvious choice. So what are we? Allow me to describe the OPS-SAT concept in just two sentences. Firstly: It is about a creating a safe space in orbit for doing everything you would love to do on own your satellite but you would never get permission. Secondly: It is about opening it up to everybody without requiring paperwork and free of charge. When we initially suggested this people called us crazy but time has been kind to us and now we have a network of dedicated users. These include: Primes, new space, universities and international space agencies. And it is global: JAXA, NASA, CNES, DLR, EU Commission, MIT. Our experience clearly shows that when operations people are let loose, we can be as fast and innovative as any trendy start-up. And so I would like to dedicate this award to those OPS-SAT experimenters. You are the heart of the mission, your work is the real reason we are up here today and we hope to serve you for many years to come. Conference, thank you!
 
 <figure>
-  <a href="/assets/images/posts/2023-04-04/OPS-SAT_SpaceOps_Award_for_Outsanding_Achievement.jpg"><img src="/assets/images/posts/2023-04-04/OPS-SAT_SpaceOps_Award_for_Outsanding_Achievement.jpg"></a>
+  <a href="/assets/images/posts/2023-04-04/OPS-SAT_SpaceOps_Award_for_Outsanding_Achievement.jpg"><img src="/assets/images/posts/2023-04-04/OPS-SAT_SpaceOps_Award_for_Outsanding_Achievement.jpg" alt="The SpaceOps Award for Outstanding Achievement certificate"></a>
   <figcaption>Dream Team!</figcaption>
 </figure>
 
