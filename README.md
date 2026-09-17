@@ -19,7 +19,7 @@ Georges develops and operationalizes AI technology demonstrators onboard the Eur
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications. 
 
 ## Leadership
-Georges leads engineering teams and genuinely enjoys it, most recently as an Engineering Manager in digital product engineering. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust partnerships with product managers.
+Georges leads engineering teams and genuinely enjoys it. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust relationships across disciplines. He spots opportunities early and builds the team and partnerships that make them real.
 
 ## Entrepreneur
 [Tanagra Space](https://tanagraspace.com/), Georges' Estonian-based AI consultancy, supports the European Space Agency's OPS-SAT mission control team at the European Space Operations Center (ESOC) in Darmstadt, Germany. He also founded [Open Data Kosovo](https://opendatakosovo.org/), a leading civic-tech non-profit with a global footprint.
