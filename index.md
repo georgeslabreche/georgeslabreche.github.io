@@ -61,7 +61,7 @@ Georges develops and operationalizes AI technology demonstrators onboard the Eur
 
 ## Leadership
 
-Georges leads engineering teams and genuinely enjoys it, most recently as an Engineering Manager in digital product engineering. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust partnerships with product managers.
+Georges leads engineering teams and genuinely enjoys it. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust relationships across disciplines. He spots opportunities early and builds the team and partnerships that make them real.
 
 ## Entrepreneur
 
