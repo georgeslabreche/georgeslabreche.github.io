@@ -2,7 +2,7 @@
 A personal website forked from [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
 ## About Georges
-Engineering artificial intelligence and machine learning systems on-board a flying spacecraft. Pretty cool people manager as well.
+Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4).
 
 ## Firsts
 The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat.esa.int/missions/ops-sat-1) and [OPS-SAT PRETTY](https://opssat.esa.int/missions/pretty) spacecraft:
@@ -14,7 +14,7 @@ The world of AI in space is *obsessed* with being the first at achieving anythin
 - **July 27, 2026:** First to [command a satellite by voice](https://tanagraspace.com/opssat-pretty-doomed/): a spoken command over amateur radio, transcribed onboard to play DOOM.
 
 ## Awards / Nominations
-Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
+Georges develops and operationalizes AI technology demonstrators onboard the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
 - Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement.
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications. 
 
