@@ -115,9 +115,30 @@ Peer-reviewed journal articles and conference papers. Also on [Google Scholar](h
 
 <ul class="pub-list">
   <li>
+    <a href="https://www.hou.usra.edu/meetings/isairas2020fullpapers/pdf/5035.pdf">Using a Rover's Active Suspension System as a 2-Axis Solar Tracker Mechanism</a>
+    <span class="pub-authors"><strong>Georges Labrèche</strong>, Florian Cordes</span>
+    <span class="pub-venue">15th International Symposium on Artificial Intelligence, Robotics and Automation in Space, i-SAIRAS 2020</span>
+  </li>
+  <li>
     <a href="https://doi.org/10.3390/rs12172795">A Pilot Study on Remote Sensing and Citizen Science for Archaeological Prospection</a>
     <span class="pub-authors">Christopher Stewart, <strong>Georges Labrèche</strong>, Daniel Lombraña González</span>
     <span class="pub-venue">Remote Sensing, vol. 12, no. 17</span>
     <span class="pub-doi">doi:10.3390/rs12172795</span>
+  </li>
+  <li>
+    <a href="https://doi.org/10.29311/2020.08">Stratospheric Balloon Flight of Cost-Effective Sampling Bags and High Resolution AirCore to Measure Arctic Greenhouse Gas Concentrations of CO2 and CH4</a>
+    <span class="pub-authors"><strong>Georges Labrèche</strong>, Pau Molas-Roca, Natalie Lawton, Núria Agües Paszkowsky, Kyriaki Blazaki, Emily Chen, Jordi Coll Ortega, Gustav Dyrssen, Erik Fagerström, Emil Nordqvist, Muhammad Ansyar Rafi Putra, Hammad Siddiqi, Ivan Zankov, Rigel Kivi, Pauli Heikkinen</span>
+    <span class="pub-venue">3rd Symposium on Space Educational Activities</span>
+    <span class="pub-doi">doi:10.29311/2020.08</span>
+  </li>
+</ul>
+
+## 2019
+
+<ul class="pub-list">
+  <li>
+    <a href="https://www.researchgate.net/publication/337740246_Project_TUBULAR_Use_of_Multi-Layer_Foil_Sampling_Bags_and_a_200_Meter_AirCore_for_Greenhouse_Gas_Sampling_On-Board_the_BEXUS_26_Stratospheric_Balloon_Flight">Project TUBULAR: Use of Multi-Layer Foil Sampling Bags and a 200 Meter AirCore for Greenhouse Gas Sampling On-Board the BEXUS 26 Stratospheric Balloon Flight</a>
+    <span class="pub-authors">Erik Fagerström, Natalie Lawton, <strong>Georges Labrèche</strong>, Emil Nordqvist, Núria Agües Paszkowsky, Kyriaki Blazaki, Emily Chen, Jordi Coll Ortega, Gustav Dyrssen, Pau Molas-Roca, Muhammad Ansyar Rafi Putra, Hammad Siddiqi, Ivan Zankov, Rigel Kivi, Pauli Heikkinen</span>
+    <span class="pub-venue">24th ESA Symposium on European Rocket &amp; Balloon Programmes and Related Research</span>
   </li>
 </ul>
