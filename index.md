@@ -14,7 +14,7 @@ header:
   actions:
     - label: "Read the posts"
       url: /posts/
-excerpt: "Engineering artificial intelligence and machine learning systems on-board flying spacecraft — as featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4)."
+excerpt: "Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4)."
 ---
 
 <div class="home-sections" markdown="1">
@@ -53,7 +53,7 @@ The world of AI in space is *obsessed* with being the first at achieving anythin
 
 ## Awards / Nominations
 
-Georges develops and operationalizes AI technology demonstrators on-board the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
+Georges develops and operationalizes AI technology demonstrators onboard the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His research focuses on leveraging edge computing for in-orbit machine learning and autonomous decision-making. Sometimes, his work gets recognized:
 
 - Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement.
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications.
