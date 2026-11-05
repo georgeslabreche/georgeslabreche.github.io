@@ -18,6 +18,9 @@ Georges develops and operationalizes AI technology demonstrators onboard the Eur
 - Recipient of the International [SpaceOps 2023 Award](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shaping_the_Future/OPS-SAT_Flying_Laboratory_Wins_2023_International_SpaceOps_Award) for Outstanding Achievement.
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications. 
 
+## Researcher
+Georges is a researcher with [Cranfield University's Centre for Space Systems](https://www.cranfield.ac.uk/centres/centre-for-space-systems) and the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His peer-reviewed papers appear at IEEE AeroConf, the SmallSat Conference, AIAA SciTech, SpaceOps, the International Astronautical Congress, and i-SAIRAS. His journal articles appear in *Remote Sensing* and *Space Education & Strategic Applications*. See the full list on the [Publications](https://georges.fyi/publications/) page, or follow along on [Google Scholar](https://scholar.google.com/citations?user=E89wAGsAAAAJ) and [ORCID](https://orcid.org/0000-0002-2104-8789).
+
 ## Leadership
 Georges leads engineering teams and genuinely enjoys it. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust relationships across disciplines. He spots opportunities early and builds the team and partnerships that make them real.
 
