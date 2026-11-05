@@ -59,6 +59,10 @@ Georges develops and operationalizes AI technology demonstrators onboard the Eur
 - Co-Chair at the [IEEE AeroConf](https://www.aeroconf.org/) session in Machine Learning / Artificial Intelligence for Aerospace Applications.
 - Co-Chair at the [SmallSat Conference](https://smallsat.org/) session in Advanced Technologies.
 
+## Researcher
+
+Georges is a researcher with [Cranfield University's Centre for Space Systems](https://www.cranfield.ac.uk/centres/centre-for-space-systems) and the European Space Agency's [OPS-SAT Space Lab](https://opssat.esa.int/). His peer-reviewed papers appear at IEEE AeroConf, the SmallSat Conference, AIAA SciTech, SpaceOps, the International Astronautical Congress, and i-SAIRAS. His journal articles appear in *Remote Sensing* and *Space Education & Strategic Applications*. See the full list on the [Publications](/publications/) page, or follow along on [Google Scholar](https://scholar.google.com/citations?user=E89wAGsAAAAJ) and [ORCID](https://orcid.org/0000-0002-2104-8789).
+
 ## Leadership
 
 Georges leads engineering teams and genuinely enjoys it. What he cares about most is people: coaching engineers, helping them grow and stick around, and building high-trust relationships across disciplines. He spots opportunities early and builds the team and partnerships that make them real.
