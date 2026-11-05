@@ -14,7 +14,7 @@ header:
   actions:
     - label: "Read the posts"
       url: /posts/
-excerpt: "Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4)."
+excerpt: "Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4) and [*SpaceNews*](https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/)."
 ---
 
 <div class="home-sections" markdown="1">

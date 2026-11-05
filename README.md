@@ -2,7 +2,7 @@
 A personal website forked from [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
 ## About Georges
-Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4).
+Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4) and [*SpaceNews*](https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/).
 
 ## Firsts
 The world of AI in space is *obsessed* with being the first at achieving anything in orbit. Here are Georges' contributions onboard the European Space Agency's [OPS-SAT-1](https://opssat.esa.int/missions/ops-sat-1) and [OPS-SAT PRETTY](https://opssat.esa.int/missions/pretty) spacecraft:
