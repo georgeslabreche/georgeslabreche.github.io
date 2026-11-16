@@ -14,7 +14,7 @@ header:
   actions:
     - label: "Read the posts"
       url: /posts/
-excerpt: "Engineering AI and machine learning systems onboard flying spacecraft. Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4), [*Scientific American*](https://www.scientificamerican.com/article/it-runs-doom-is-more-than-a-meme-the-reason-lies-in-its-engineering/), and [*SpaceNews*](https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/)."
+excerpt: "Engineering AI and machine learning systems onboard flying spacecraft. <br>Featured in [*Nature*](https://www.nature.com/articles/d41586-026-00813-4), [*Scientific American*](https://www.scientificamerican.com/article/it-runs-doom-is-more-than-a-meme-the-reason-lies-in-its-engineering/), and [*SpaceNews*](https://spacenews.com/satellite-on-orbit-responded-to-voice-command-in-experimental-first/)."
 ---
 
 <div class="home-sections" markdown="1">
